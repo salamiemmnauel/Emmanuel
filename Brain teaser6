@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#boy1 {color: blue; font-family: sans-serif;}
+#boy2 {color: blue; font-family: verdena;}
+#boy3 {color: blue; font-family: arial narrow;}
+#girl1 {color: red;}
+#girl2 {color: red;}
+</style>
+</head>
+<body>
+<h1>The boys that like math, physics,....are in blue</h1>
+<h2 id="boy1">BOY1 Math</h2>
+<h2 id="boy2">BOY2 English</h2>
+<h2 id="boy3">BOY3 Physics</h2>
+<h1>The girls are in red</h1>
+<h2 id="girl1"><span style="font-family:calibri;">GIRL1 </span><span style:"font-family:optima;">Health </span>Science</h2>
+<h2 id="girl2"><span style="font-family:arial;">Girl2 </span><span style:"font-family:georgia;">Mathematics</span></h2>
+</body>
+</html>
